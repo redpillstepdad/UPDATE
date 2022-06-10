@@ -589,28 +589,28 @@
           "state" : "Virginia"
         },
         {
-          "abbreviation" : "DUKE",
-          "prestige" : "72",
-          "hexColor" : "#003087",
+          "abbreviation" : "UL",
+          "prestige" : "75",
+          "hexColor" : "#AD0000",
           "rival" : "CLEM",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
-            "age" : "44",
-            "ratOff" : "68",
+            "age" : "49",
+            "ratOff" : "80",
             "cumulativePrestige" : "12",
             "ratDef" : "78",
-            "homeState" : "Kansas",
+            "homeState" : "North Carolina",
             "ratPot" : "72",
             "ratTalent" : "67",
-            "baselinePrestige" : "68",
+            "baselinePrestige" : "70",
             "ratDiscipline" : "70",
-            "ratOvr" : "71",
-            "name" : "Mike Elko",
+            "ratOvr" : "75",
+            "name" : "Scott Satterfield",
             "contractYear" : "0"
           },
-          "name" : "Duke",
-          "state" : "North Carolina"
+          "name" : "Louisville",
+          "state" : "Kentucky"
         },
         {
           "abbreviation" : "FSU",
@@ -709,28 +709,28 @@
           "state" : "Massachusetts"
         },
         {
-          "abbreviation" : "SYR",
-          "prestige" : "69",
-          "hexColor" : "#F76900",
+          "abbreviation" : "UNC",
+          "prestige" : "80",
+          "hexColor" : "#7BAFD4",
           "rival" : "PITT",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2022",
-            "age" : "60",
+            "age" : "70",
             "ratOff" : "79",
             "cumulativePrestige" : "15",
-            "ratDef" : "69",
-            "homeState" : "Hawaii",
-            "ratPot" : "64",
+            "ratDef" : "75",
+            "homeState" : "Tennessee",
+            "ratPot" : "69",
             "ratTalent" : "79",
             "baselinePrestige" : "65",
             "ratDiscipline" : "73",
-            "ratOvr" : "75",
-            "name" : "Dino Babers",
+            "ratOvr" : "82",
+            "name" : "Mack Brown",
             "contractYear" : "0"
           },
-          "name" : "Syracuse",
-          "state" : "New York"
+          "name" : "North Carolina",
+          "state" : "North Carolina"
         },
         {
           "abbreviation" : "UVA",
@@ -1354,28 +1354,28 @@
           "state" : "Tennessee"
         },
         {
-          "abbreviation" : "NAVY",
+          "abbreviation" : "East Carolina",
           "prestige" : "65",
-          "hexColor" : "#00205B",
+          "hexColor" : "#592A8A",
           "rival" : "TEM",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2022",
-            "age" : "56",
+            "age" : "50",
             "ratOff" : "63",
             "cumulativePrestige" : "0",
             "ratDef" : "73",
-            "homeState" : "Pennsylvania",
+            "homeState" : "North Carolina",
             "ratPot" : "70",
             "ratTalent" : "47",
             "baselinePrestige" : "59",
             "ratDiscipline" : "75",
             "ratOvr" : "64",
-            "name" : "Ken Niumatalolo",
+            "name" : "Mike Houston",
             "contractYear" : "0"
           },
-          "name" : "Navy",
-          "state" : "Maryland"
+          "name" : "East Carolina",
+          "state" : "Noth Carolina"
         },
         {
           "abbreviation" : "TEM",
