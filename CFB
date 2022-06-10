@@ -216,7 +216,7 @@
         },
         {
           "abbreviation" : "AUB",
-          "prestige" : "90",
+          "prestige" : "83",
           "hexColor" : "#03244D",
           "rival" : "ALA",
           "headCoach" : {
@@ -319,7 +319,7 @@
         },
         {
           "abbreviation" : "OSU",
-          "prestige" : "86",
+          "prestige" : "90",
           "hexColor" : "#BB0000",
           "rival" : "PSU",
           "headCoach" : {
@@ -520,7 +520,7 @@
           "abbreviation" : "CLEM",
           "prestige" : "85",
           "hexColor" : "#F66733",
-          "rival" : "DUKE",
+          "rival" : "LOU",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2022",
@@ -544,7 +544,7 @@
           "abbreviation" : "PITT",
           "prestige" : "82",
           "hexColor" : "#003594",
-          "rival" : "SYR",
+          "rival" : "UNC",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2022",
@@ -589,7 +589,7 @@
           "state" : "Virginia"
         },
         {
-          "abbreviation" : "UL",
+          "abbreviation" : "LOU",
           "prestige" : "75",
           "hexColor" : "#AD0000",
           "rival" : "CLEM",
@@ -638,7 +638,7 @@
         },
         {
           "abbreviation" : "MIA",
-          "prestige" : "71",
+          "prestige" : "79",
           "hexColor" : "#F47321",
           "rival" : "FSU",
           "headCoach" : {
@@ -650,7 +650,7 @@
             "ratDef" : "75",
             "homeState" : "Nebraska",
             "ratPot" : "73",
-            "ratTalent" : "79",
+            "ratTalent" : "80",
             "baselinePrestige" : "70",
             "ratDiscipline" : "82",
             "ratOvr" : "77",
@@ -765,7 +765,7 @@
       "confTeams" : [
         {
           "abbreviation" : "TEX",
-          "prestige" : "75",
+          "prestige" : "81",
           "hexColor" : "#BF5700",
           "rival" : "OU",
           "headCoach" : {
@@ -1060,18 +1060,18 @@
         },
         {
           "abbreviation" : "USC",
-          "prestige" : "76",
+          "prestige" : "84",
           "hexColor" : "#990000",
           "rival" : "UCLA",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2022",
             "age" : "38",
-            "ratOff" : "69",
+            "ratOff" : "80",
             "cumulativePrestige" : "0",
             "ratDef" : "67",
             "homeState" : "Florida",
-            "ratPot" : "74",
+            "ratPot" : "81",
             "ratTalent" : "65",
             "baselinePrestige" : "70",
             "ratDiscipline" : "76",
@@ -1108,7 +1108,7 @@
         },
         {
           "abbreviation" : "ORE",
-          "prestige" : "81",
+          "prestige" : "85",
           "hexColor" : "#036936",
           "rival" : "ORST",
           "headCoach" : {
@@ -1132,7 +1132,7 @@
         },
         {
           "abbreviation" : "WASH",
-          "prestige" : "86",
+          "prestige" : "82",
           "hexColor" : "#4B2E83",
           "rival" : "WSU",
           "headCoach" : {
@@ -1259,7 +1259,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UCF",
-          "prestige" : "68",
+          "prestige" : "73",
           "hexColor" : "#B7A369",
           "rival" : "USF",
           "headCoach" : {
@@ -1354,7 +1354,7 @@
           "state" : "Tennessee"
         },
         {
-          "abbreviation" : "East Carolina",
+          "abbreviation" : "ECU",
           "prestige" : "65",
           "hexColor" : "#592A8A",
           "rival" : "TEM",
@@ -1381,7 +1381,7 @@
           "abbreviation" : "TEM",
           "prestige" : "59",
           "hexColor" : "#9E1B34",
-          "rival" : "NAVY",
+          "rival" : "ECU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
@@ -1403,7 +1403,7 @@
         },
         {
           "abbreviation" : "HOU",
-          "prestige" : "60",
+          "prestige" : "68",
           "hexColor" : "#C8102E",
           "rival" : "SMU",
           "headCoach" : {
@@ -1427,7 +1427,7 @@
         },
         {
           "abbreviation" : "SMU",
-          "prestige" : "57",
+          "prestige" : "63",
           "hexColor" : "#354CA1",
           "rival" : "HOU",
           "headCoach" : {
