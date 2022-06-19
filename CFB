@@ -590,7 +590,7 @@
         },
         {
           "abbreviation" : "LOU",
-          "prestige" : "75",
+          "prestige" : "71",
           "hexColor" : "#AD0000",
           "rival" : "CLEM",
           "headCoach" : {
@@ -1331,7 +1331,7 @@
         },
         {
           "abbreviation" : "MEM",
-          "prestige" : "57",
+          "prestige" : "64",
           "hexColor" : "#003087",
           "rival" : "CIN",
           "headCoach" : {
@@ -1921,7 +1921,7 @@
         },
         {
           "abbreviation" : "GAST",
-          "prestige" : "45",
+          "prestige" : "55",
           "hexColor" : "#0039A6",
           "rival" : "CCU",
           "headCoach" : {
@@ -2024,7 +2024,7 @@
         },
         {
           "abbreviation" : "MTSU",
-          "prestige" : "49",
+          "prestige" : "54",
           "hexColor" : "#0066CC",
           "rival" : "UAB",
           "headCoach" : {
@@ -2192,7 +2192,7 @@
         },
         {
           "abbreviation" : "WKU",
-          "prestige" : "48",
+          "prestige" : "55",
           "hexColor" : "#B01E24",
           "rival" : "LT",
           "headCoach" : {
