@@ -590,7 +590,7 @@
         },
         {
           "abbreviation" : "LOU",
-          "prestige" : "71",
+          "prestige" : "79",
           "hexColor" : "#AD0000",
           "rival" : "CLEM",
           "headCoach" : {
@@ -2216,7 +2216,7 @@
         },
         {
           "abbreviation" : "LT",
-          "prestige" : "53",
+          "prestige" : "48",
           "hexColor" : "#003087",
           "rival" : "WKU",
           "headCoach" : {
